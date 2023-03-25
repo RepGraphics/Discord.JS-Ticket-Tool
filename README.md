@@ -12,6 +12,5 @@ A Basic Ticket Tool for Discord coded using Discord.JS.
 - [ ] Bot Icon (The Bots Logo/Icon).
 - [ ] Transcripts (The ChannelID that Transcripts will be logged to).
 - [ ] Ticket Role (Discord Server Role that can access/manage Tickets).
-
- #### Run "node slashregister.js"
- #### Finally run "node ."
+- [ ] Run "node slashregister.js"
+- [ ] Finally run "node ."
