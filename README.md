@@ -2,10 +2,10 @@
 A Basic Ticket Tool for Discord coded using Discord.JS.
 
 #Setup
-- Download the Bot File.
-- Install Requirements (Node.JS, NPM)
-- Edit Information.json to the Details you need:
-- [ ]Bot Token (Visit Discord Developer Portal for this).
+- [ ] Download the Bot File.
+- [ ] Install Requirements (Node.JS, NPM)
+- [ ] Edit Information.json to the Details you need:
+- [ ] Bot Token (Visit Discord Developer Portal for this).
 - [ ] ClientID (This is the Bots ID).
 - [ ] Bot Name (This is the Name you want it to have).
 - [ ] Bot Name Link (Where the Bots Name will take you to).
