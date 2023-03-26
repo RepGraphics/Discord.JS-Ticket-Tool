@@ -1,8 +1,3 @@
-const sourcebin = require('sourcebin_js');
-const { SlashCommandBuilder } = require('@discordjs/builders');
-const { EmbedBuilder } = require("discord.js");
-const { Transcripts, TicketRole } = require('./../Database/Information.json');
-
 module.exports = {
     run: async (client, interaction) => {
 
